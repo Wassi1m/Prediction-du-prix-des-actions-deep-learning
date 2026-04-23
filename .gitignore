@@ -5,11 +5,7 @@ __pycache__/
 # data
 data_set/
 *.csv
-
-# modèles
-*.pt
-*.pth
-*.h5
+ 
 
 # images
 *.png
